@@ -9,3 +9,7 @@ print(a)
 s='%s %s'
 result=s %('K','2')
 print(result)
+#example4
+b="khoa"
+c=f'{b} - hoang'
+print(c)
