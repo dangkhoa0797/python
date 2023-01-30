@@ -13,3 +13,4 @@ print(result)
 b="khoa"
 c=f'{b} - hoang'
 print(c)
+#example5
